@@ -37,9 +37,9 @@ nmap <Leader>Q :qa!<CR>
 " 设置快捷键遍历子窗口
 " 依次遍历
 nnoremap nw <C-W><C-W>
-" 跳转至右方的窗口
+" 跳转至右边的窗口
 nnoremap <Leader>lw <C-W>l
-" 跳转至方的窗口
+" 跳转至左边的窗口
 nnoremap <Leader>hw <C-W>h
 " 跳转至上方的子窗口
 nnoremap <Leader>kw <C-W>k
